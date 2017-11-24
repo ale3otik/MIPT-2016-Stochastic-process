@@ -1,0 +1,13 @@
+scikit-learn>=0.16
+
+[docs]
+scikit-learn>=0.16
+Sphinx
+sphinx-gallery
+numpydoc
+Pillow
+matplotlib
+
+[tests]
+scikit-learn>=0.16
+pytest
